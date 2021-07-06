@@ -1,0 +1,67 @@
+.divlogo {float: left;}
+
+body {background-color: darkred;}
+nav {
+	width: 100%;
+	/*overflow: auto;*/
+}
+
+ul {
+    list-style-type: none;
+    float:right;
+}
+
+
+
+li {
+	width: 90px;
+	padding: 30px 160px 60px 0px;
+	font-family: arial;
+	color: black;
+	display: inline;
+	
+	font-size: 20px;
+	font-color: black; 
+
+
+	}
+
+li a {
+	text-decoration: none;
+	color: black;
+
+}
+
+.logo
+{width: 170px;}
+
+.row {
+	display: flex;
+	clear: both;
+	justify-content: center;
+
+
+}
+
+
+.product1div, .product2div, .product3div, .product4div, 
+{
+
+	clear: both;
+
+}
+
+.imgproduct1, .imgproduct2, .imgproduct3, .imgproduct4
+
+{
+
+	width: 200px;
+	height: 200px;
+		padding: 40px 0px 0px 50px;
+
+	
+		
+}
+p
+{text-align: center}
+
